@@ -20,8 +20,8 @@ android {
 
     productFlavors {
 
-        wegijwgeijwieg {
-            applicationId = "com.example.my.pkg.wegijwgeijwieg"
+        gewfjwrgjnworgjnwrhg {
+            applicationId = "com.example.my.pkg.gewfjwrgjnworgjnwrhg"
         }
          greenlol {
             applicationId = "com.example.my.pkg.greenlol"
