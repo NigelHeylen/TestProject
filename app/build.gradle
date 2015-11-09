@@ -20,10 +20,10 @@ android {
 
     productFlavors {
 
-        green-test {
-            applicationId = "com.example.my.pkg.green-test"
+        greentest {
+            applicationId = "com.example.my.pkg.greentest"
         }
-         green {
+          green {
             applicationId = "com.example.my.pkg.green"
         }
          blue {
