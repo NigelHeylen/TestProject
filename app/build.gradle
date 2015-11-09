@@ -20,25 +20,7 @@ android {
 
     productFlavors {
 
-        deeppurple {
-            applicationId = "com.example.my.pkg.deeppurple"
-        }
-         gewfjwrgjnworgjnwrhg {
-            applicationId = "com.example.my.pkg.gewfjwrgjnworgjnwrhg"
-        }
-         greenlol {
-            applicationId = "com.example.my.pkg.greenlol"
-        }
-         orange {
-            applicationId = "com.example.my.pkg.orange"
-        }
-         purple {
-            applicationId = "com.example.my.pkg.purple"
-        }
-         green {
-            applicationId = "com.example.my.pkg.green"
-        }
-           blue {
+        blue {
             applicationId = "com.example.my.pkg.pro"
         }
     }
